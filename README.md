@@ -1,5 +1,4 @@
 # FormulaOne + Data
-Exploring F1 through data.
 
 This repository accompanies my Medium blog, which explores Formula 1 through data analysis. Each article leverages Python-based tools and publicly available datasets to uncover patterns and insights in Formula One.
 
