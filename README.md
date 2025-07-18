@@ -4,10 +4,10 @@ This repository supports my articles on Medium, which explore Formula 1 through 
 
 Each article is organized into its own folder, named using the format:
 
-`[ArticleNumber]-[DateOfPublication(YYYYMMDD]`
+`[ArticleNumber]-[DateOfPublication(YYYYMMDD)]`
 
 For example:  
-`01-20250101` refers to Article 1, published on January 1, 2025.
+`01-20250108` refers to Article 1, published on January 8, 2025.
 
 This structure helps in locating the relevant code, notebooks, and visualizations associated with each article.
 
